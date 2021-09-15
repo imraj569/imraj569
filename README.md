@@ -2,7 +2,6 @@
 
 # Hello World! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-
 - 🔭 I’m currently working on ... python 
 - 🌱 I’m currently learning ...python 
 - 👯 I’m looking to collaborate on ...open source 
