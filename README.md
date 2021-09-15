@@ -2,7 +2,7 @@
 
 # Hello World! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-This is Raj here and I am a Video creator and a graphic designer. My hobbies are mobile photography, drawing, vlogging and playing the synthesizer. I am mostly interested in Tools development with python for automation,hacking and bug bounty 
+This is Raj here and I am a graduate student of BSC (Zoology)-2021 . My hobbies are mobile photography,vlogging and playing the synthesizer. I am mostly interested in Tools development with python for automation and hacking. 
 
 - 🔭 I’m currently working on ... python 
 - 🌱 I’m currently learning ...python 
