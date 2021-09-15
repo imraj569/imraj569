@@ -2,6 +2,8 @@
 
 # Hello World! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
+This is Raj here and I am a Video creator and a graphic designer. My hobbies are mobile photography, drawing, vlogging and playing the synthesizer. I am mostly interested in Tools development with python for automation,hacking and bug bounty 
+
 - 🔭 I’m currently working on ... python 
 - 🌱 I’m currently learning ...python 
 - 👯 I’m looking to collaborate on ...open source 
@@ -9,6 +11,7 @@
 - 💬 Ask me about ...anything 
 - 😄 Pronouns: ...he/his
 - ⚡ Fun fact: ...workaholic 
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/imraj569" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="imraj569" height="30" width="40" /></a>
