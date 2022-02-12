@@ -2,15 +2,15 @@
 
 # Hello World! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-This is Raj here and I am a graduate student of BSC (Zoology)-2021 . My hobbies are mobile photography,vlogging and playing the synthesizer. I am mostly interested in Tools development with python for automation and hacking. 
+This is Raj here and I am a graduate student of BSC (Zoology)-2021 . My hobbies are photography,VideoEditing,coding and scroling meme pages. I am mostly interested in Tools development with python for automation and hacking. 
 
 - 🔭 I’m currently working on ... python 
-- 🌱 I’m currently learning ...python 
+- 🌱 I’m currently learning ...python , HTML , DS , ML
 - 👯 I’m looking to collaborate on ...open source 
 - 🤔 I’m looking for help with ...python 
 - 💬 Ask me about ...anything 
 - 😄 Pronouns: ...he/his
-- ⚡ Fun fact: ...workaholic 
+- ⚡ Fun fact: ...i'm a workaholic 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -20,4 +20,5 @@ This is Raj here and I am a graduate student of BSC (Zoology)-2021 . My hobbies 
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.gnu.org/software/bash/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+<p align="left"> <a href="https://www.gnu.org/software/bash/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
+</a> <a href="https://www.w3schools.com/html/" target="_blank"> <img src="https://cdn.pixabay.com/photo/2017/08/05/11/16/logo-2582748_1280.png" alt="HTML" height="40"/> </a></p>
