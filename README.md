@@ -1,8 +1,11 @@
-![Banner](https://user-images.githubusercontent.com/53007802/133314265-fedae688-2691-4628-9ad0-cb0c6654f8db.gif)
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Rajkishor patra</h1>
-<h3 align="center">A Boy trying to Figure-Out Stuff!!</h3>
+![A Boy is Trying automate the boring stuff](https://user-images.githubusercontent.com/53007802/161012614-f550dbe0-b702-4154-a1ec-e1a4df73c530.gif)
 
-- ⚡ Fun fact: ...i'm a workaholic 
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Rajkishor patra</h1>
+<img align="right" alt="Coding" width="320" src="https://user-images.githubusercontent.com/53007802/161012255-8e70189e-3ca8-46bb-97c2-644b3668818a.gif">
+
+- 📫 How to reach me **rajkishorpatra0112@gmail.com**
+
+- ⚡ Fun fact I think I am funny
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
