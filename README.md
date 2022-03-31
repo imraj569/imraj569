@@ -1,15 +1,7 @@
 ![Banner](https://user-images.githubusercontent.com/53007802/133314265-fedae688-2691-4628-9ad0-cb0c6654f8db.gif)
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Rajkishor patra</h1>
+<h3 align="center">A Boy trying to Figure-Out Stuff!!</h3>
 
-# Hello World! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
-
-This is Raj here and I am a graduate student of BSC (Zoology)-2021 . My hobbies are photography,VideoEditing,coding and scroling meme pages. I am mostly interested in Tools development with python for automation and hacking. 
-
-- 🔭 I’m currently working on ... python 
-- 🌱 I’m currently learning ...python , HTML , DS , ML
-- 👯 I’m looking to collaborate on ...open source 
-- 🤔 I’m looking for help with ...python 
-- 💬 Ask me about ...anything 
-- 😄 Pronouns: ...he/his
 - ⚡ Fun fact: ...i'm a workaholic 
 
 <h3 align="left">Connect with me:</h3>
