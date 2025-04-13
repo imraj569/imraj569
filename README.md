@@ -25,8 +25,6 @@
 
 ### 📫 Contact Me
 
-[<img src="https://cdn.icon-icons.com/icons2/1488/PNG/512/5293-facebook_102565.png" width="25px">](https://fb.com/im.raj.569)
-[<img src="https://cdn.icon-icons.com/icons2/122/PNG/512/twitter_socialnetwork_20007.png" width="25px">](https://twitter.com/imraj569)
 [<img src="https://cdn.icon-icons.com/icons2/1183/PNG/512/1490133459-social-icons04_82211.png" width="25px">](https://instagram.com/im.raj.569)
 [![Gmail](https://img.shields.io/badge/Gmail-rajkishorpatra0112@gmail.com-blue?style=flat-square&logo=gmail)](mailto:rajkishorpatra0112@gmail.com)
 
