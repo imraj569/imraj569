@@ -4,7 +4,7 @@
 </p>
 
 <!-- Intro -->
-<h1 align="center">Hi <img src="https://media1.tenor.com/images/b9371273ae94a946e92074d1b9696680/tenor.gif" width="60px" alt="wave">, I'm Rajkishor Patra</h1>
+<h1 align="center">Hi <img src="https://github.com/user-attachments/assets/e550fba2-3366-44cc-8835-054176644ed4" width="60px" alt="wave">, I'm Rajkishor Patra</h1>
 
 <p align="center">
   ⚙️ Tech Enthusiast | 🧠 Self-Taught Explorer | 🎬 Creative Coder | 🌱 Always Learning
