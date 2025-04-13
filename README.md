@@ -7,7 +7,7 @@
 <h1 align="center">Hi <img src="https://media1.tenor.com/images/b9371273ae94a946e92074d1b9696680/tenor.gif" width="60px" alt="wave">, I'm Rajkishor Patra</h1>
 
 <p align="center">
-  🚀 Developer | 🧠 Problem Solver | 🎥 Video Editor | 🌱 Lifelong Learner
+  ⚙️ Tech Enthusiast | 🧠 Self-Taught Explorer | 🎬 Creative Coder | 🌱 Always Learning
 </p>
 
 
